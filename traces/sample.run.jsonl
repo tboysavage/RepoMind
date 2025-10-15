@@ -1,0 +1,2 @@
+{"timestamp": "2024-01-01T00:00:00.000Z", "event": "span.start", "span": "scan", "root": "."}
+{"timestamp": "2024-01-01T00:00:00.100Z", "event": "span.end", "span": "scan", "root": "."}
